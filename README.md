@@ -9,7 +9,7 @@ const summmer = {
   pronouns: "he" | "his",
   code: [C, Asm, Python, Java, Javascript, Go],
   tools: [Eclipse, Pycharm, Keil, Gcc, Docker],
-  interests: ["Computer Science", "RTOS", "linux", "Machine Learning"],
+  interests: ["Computer Science", "Arm", "RTOS", "Linux", "Machine Learning"],
   challenge: "I'm working on Building a complete computer system from scratch."
 }
 ```
