@@ -1,16 +1,22 @@
-### Hi there 👋
+<h2> Hi, I'm SummerGift! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="230">
+<p><em>Software Enginner at  <a href="http://www.unb.br">RT-Thread</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</em></p>
 
-<!--
-**SummerLife/SummerLife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub SummerGife](https://img.shields.io/github/followers/SummerLife?label=follow&style=social)](https://github.com/SummerLife)
 
-Here are some ideas to get you started:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const summmer = {
+  pronouns: "he" | "his",
+  code: [C, Asm, Python, Java, Javascript, Go],
+  tools: [Eclipse, Pycharm, Keil, Gcc, Docker],
+  interests: ["Computer Science", "RTOS", "linux", "Machine Learning"],
+  challenge: "I'm working on Building a complete computer system from scratch."
+}
+```
+
+🤣 <em><b>I like to keep learning something new, </b> If you also like exploring  <b> I'll be happy to meet you more!</b> :)</em>
+
+---
