@@ -7,7 +7,7 @@
 
 
 ```javascript
-const summmer = {
+const summmergift = {
   pronouns: "he" | "his",
   code: [C, Asm, Python, Java, Javascript, Go],
   tools: [Eclipse, Pycharm, Keil, Gcc, Docker],
@@ -18,7 +18,7 @@ const summmer = {
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SummerLife)
 
-🤣 <em><b>I like to keep learning something new, </b> If you also like exploring, <b> I'll be happy to meet you more!</b> :)</em>
+🤣 <em><b>I like to keep learning something new, If you also like exploring, I'll be happy to meet you more!</b> :)</em>
 
 
 ---
