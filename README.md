@@ -18,7 +18,7 @@ const summmer = {
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SummerLife)
 
-🤣 <em><b>I like to keep learning something new, </b> If you also like exploring  <b> I'll be happy to meet you more!</b> :)</em>
+🤣 <em><b>I like to keep learning something new, </b> If you also like exploring, <b> I'll be happy to meet you more!</b> :)</em>
 
 
 ---
