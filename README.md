@@ -18,7 +18,7 @@ const summmergift = {
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SummerLife)
 
-🤣 <em><b>I like to keep learning something new, If you also like exploring, I'll be happy to meet you more!</b> :)</em>
+<em><b>Never stop exploring </b> :)</em>
 
 
 ---
