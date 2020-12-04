@@ -4,10 +4,8 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-
-
 ```javascript
-const summmergift = {
+const SummerGift = {
   pronouns: "he" | "his",
   code: [C, Asm, Python, Java, Javascript, Go],
   tools: [Eclipse, Pycharm, Keil, Gcc, Docker],
