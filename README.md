@@ -14,9 +14,6 @@ const SummerGift = {
 }
 ```
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=SummerLife)
-
 <em><b>Never stop exploring </b> :)</em>
-
 
 ---
