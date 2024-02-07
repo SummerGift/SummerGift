@@ -10,8 +10,7 @@ struct profile summergift=
 {
   .name      = "SummerGift",                                      
   .company   = "XPENG",                                       
-  .language  = "C, Asm, Python, Shell",            
-  .tools     = "Eclipse, Pycharm, Keil, Gcc, Docker",
+  .language  = "C, Asm, Python, Shell", 
   .interests = "Computer Science, Linux, RTOS, Arm, Compiler, Machine Learning, Self-Driving, DLA",
 }
 ```
