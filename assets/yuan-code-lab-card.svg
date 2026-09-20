@@ -1,21 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
 <title id="title">Yuan Code Lab 个人主页</title>
-<desc id="desc">做一些真正能用的东西，也记录它们是怎么被做出来的。GPU Kernel Engineer，在 AI Infra 领域持续探索。访问 yuancodelab.com。</desc>
-<rect width="1200" height="560" rx="20" fill="#f8f7f3"/>
-<rect x="1" y="1" width="1198" height="558" rx="19" fill="none" stroke="#dedfd8" stroke-width="2"/>
+<desc id="desc">我是 Yuan，一名 GPU Kernel Engineer，在 AI Infra 领域持续探索。点击访问 yuancodelab.com。</desc>
+<rect width="1200" height="360" rx="20" fill="#f8f7f3"/>
+<rect x="1" y="1" width="1198" height="358" rx="19" fill="none" stroke="#dedfd8" stroke-width="2"/>
 <g font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif">
-<text x="58" y="76" fill="#25332f" font-size="32" font-weight="650">Yuan Code Lab<tspan fill="#7b9bbd">.</tspan></text>
-<text x="1142" y="73" text-anchor="end" fill="#66706b" font-size="15" letter-spacing="2">ENGINEER / BUILDER / WRITER</text>
-<path d="M58 105H1142" stroke="#dedfd8"/>
-<text x="58" y="163" fill="#395e89" font-size="14" letter-spacing="3">作品 · 思考 · 个人探索</text>
-<text x="58" y="235" fill="#25332f" font-size="43" font-weight="600">做一些真正能用的东西，</text>
-<text x="58" y="303" fill="#748577" font-size="43" font-weight="550">也记录它们是怎么被做出来的。</text>
-<text x="58" y="367" fill="#66706b" font-size="21">我是 Yuan，一名 GPU Kernel Engineer，在 AI Infra 领域持续探索。</text>
-<path d="M58 412H1142" stroke="#dedfd8"/>
-<rect x="58" y="445" width="207" height="62" rx="5" fill="#25332f"/>
-<text x="84" y="484" fill="#ffffff" font-size="20">访问个人主页</text>
-<path d="M224 483l14-14m-14 0h14v14" fill="none" stroke="#ffffff" stroke-width="2"/>
-<text x="292" y="483" fill="#66706b" font-size="19">yuancodelab.com</text>
-<rect x="883" y="451" width="259" height="49" rx="24" fill="#eaf0f4"/>
-<text x="1012" y="482" text-anchor="middle" fill="#395e89" font-size="17">独立作品：要事 · Matters</text>
+<text x="58" y="82" fill="#25332f" font-size="34" font-weight="650">Yuan Code Lab<tspan fill="#7b9bbd">.</tspan></text>
+<path d="M58 112H1142" stroke="#dedfd8"/>
+<text x="58" y="178" fill="#25332f" font-size="29" font-weight="550">我是 Yuan，一名 GPU Kernel Engineer。</text>
+<text x="58" y="225" fill="#66706b" font-size="25">在 AI Infra 领域持续探索。</text>
+<text x="58" y="309" fill="#395e89" font-size="21">yuancodelab.com</text>
+<text x="1107" y="309" text-anchor="end" fill="#395e89" font-size="21">访问个人主页</text>
+<path d="M1125 307l16-16m-16 0h16v16" fill="none" stroke="#395e89" stroke-width="2"/>
 </g></svg>
