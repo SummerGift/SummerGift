@@ -1,8 +1,8 @@
 <h2> Hi, I'm SummerGift（我夏了夏天）! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-**个人主页：[Yuan Code Lab](https://yuancodelab.com/)**
+[![Yuan Code Lab 个人主页：工作之余的个人作品、思考与探索，点击访问](assets/yuan-code-lab-card.png)](https://yuancodelab.com/)
 
-欢迎来看看我在工作之余做的个人作品与思考，也可以在这里找到我的联系方式。
+[访问我的个人主页 →](https://yuancodelab.com/) · 作品、产品思考与联系方式
 
 <p><em>Software Enginner at  <a href="https://heyxpeng.com">XPENG</a></em></p>
 
