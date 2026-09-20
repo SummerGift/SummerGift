@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
 <title id="title">Hi, I'm Yuan — Yuan Code Lab</title>
-<desc id="desc">你好，我是 Yuan。折腾 RTOS 和 Linux 实时系统好多年，现在专注 Infer Runtime 和 GPU Kernel 性能优化，在 AI Infra 领域持续探索。点击访问 yuancodelab.com。</desc>
+<desc id="desc">你好，我是 Yuan。折腾 RTOS 和 Linux 实时系统好多年，现在专注 Inference Runtime 和 GPU Kernel 性能优化，在 AI Infra 领域持续探索。点击访问 yuancodelab.com。</desc>
 <rect width="1200" height="560" rx="20" fill="#f8f7f3"/>
 <rect x="1" y="1" width="1198" height="558" rx="19" fill="none" stroke="#dedfd8" stroke-width="2"/>
 <g font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif">
@@ -10,7 +10,7 @@
 <text x="58" y="190" fill="#25332f" font-size="48" font-weight="600">Hi, I'm Yuan 👋</text>
 <text x="58" y="239" fill="#748577" font-size="25">你好，欢迎来到我的个人空间。</text>
 <text x="58" y="303" fill="#25332f" font-size="26" font-weight="550">折腾 RTOS 和 Linux 实时系统好多年，</text>
-<text x="58" y="348" fill="#66706b" font-size="24">现在专注 Infer Runtime 和 GPU Kernel 性能优化，</text>
+<text x="58" y="348" fill="#66706b" font-size="24">现在专注 Inference Runtime 和 GPU Kernel 性能优化，</text>
 <text x="58" y="387" fill="#66706b" font-size="24">在 AI Infra 领域持续探索。</text>
 <path d="M58 427H1142" stroke="#dedfd8"/>
 <rect x="58" y="456" width="207" height="62" rx="5" fill="#25332f"/>
