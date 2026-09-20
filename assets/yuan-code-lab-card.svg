@@ -1,13 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
 <title id="title">Yuan Code Lab 个人主页</title>
-<desc id="desc">我是 Yuan，一名 GPU Kernel Engineer，在 AI Infra 领域持续探索。点击访问 yuancodelab.com。</desc>
+<desc id="desc">拥有多年 RTOS 与 Linux 开发经验。目前专注于 AI 领域的 GPU Kernel 性能优化，并在 AI Infra 领域持续探索。点击访问 yuancodelab.com。</desc>
 <rect width="1200" height="360" rx="20" fill="#f8f7f3"/>
 <rect x="1" y="1" width="1198" height="358" rx="19" fill="none" stroke="#dedfd8" stroke-width="2"/>
 <g font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif">
 <text x="58" y="82" fill="#25332f" font-size="34" font-weight="650">Yuan Code Lab<tspan fill="#7b9bbd">.</tspan></text>
 <path d="M58 112H1142" stroke="#dedfd8"/>
-<text x="58" y="178" fill="#25332f" font-size="29" font-weight="550">我是 Yuan，一名 GPU Kernel Engineer。</text>
-<text x="58" y="225" fill="#66706b" font-size="25">在 AI Infra 领域持续探索。</text>
+<text x="58" y="174" fill="#25332f" font-size="29" font-weight="550">拥有多年 RTOS 与 Linux 开发经验。</text>
+<text x="58" y="223" fill="#66706b" font-size="25">目前专注于 AI 领域的 GPU Kernel 性能优化，</text>
+<text x="58" y="261" fill="#66706b" font-size="25">并在 AI Infra 领域持续探索。</text>
 <text x="58" y="309" fill="#395e89" font-size="21">yuancodelab.com</text>
 <text x="1107" y="309" text-anchor="end" fill="#395e89" font-size="21">访问个人主页</text>
 <path d="M1125 307l16-16m-16 0h16v16" fill="none" stroke="#395e89" stroke-width="2"/>
