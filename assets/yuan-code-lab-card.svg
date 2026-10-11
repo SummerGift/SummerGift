@@ -1,21 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
-<title id="title">Hi, I'm Yuan — Yuan Code Lab</title>
-<desc id="desc">你好，我是 Yuan。折腾 Embedded System 好多年，现在专注 Inference Runtime 和 GPU Kernel 性能优化，在 AI Infra 领域持续探索。点击访问 yuancodelab.com。</desc>
-<rect width="1200" height="560" rx="20" fill="#f8f7f3"/>
-<rect x="1" y="1" width="1198" height="558" rx="19" fill="none" stroke="#dedfd8" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+<title id="title">Zhang Yuan · AI Infrastructure Engineer · Creator of Yuan Code Lab</title>
+<desc id="desc">你好，我是 Zhang Yuan，AI 基础设施工程师、源代码 Lab 创作者。折腾 Embedded System 好多年，现在专注 Inference Runtime 和 GPU Kernel 性能优化，在 AI Infra 领域持续探索。点击访问 yuancodelab.com。</desc>
+<rect width="1200" height="620" rx="20" fill="#f8f7f3"/>
+<rect x="1" y="1" width="1198" height="618" rx="19" fill="none" stroke="#dedfd8" stroke-width="2"/>
 <g font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif">
 <text x="58" y="76" fill="#25332f" font-size="32" font-weight="650">Yuan Code Lab<tspan fill="#7b9bbd">.</tspan></text>
-<text x="1142" y="73" text-anchor="end" fill="#66706b" font-size="15" letter-spacing="2">ENGINEER / BUILDER / WRITER</text>
 <path d="M58 105H1142" stroke="#dedfd8"/>
-<text x="58" y="190" fill="#25332f" font-size="48" font-weight="600">Hi, I'm Yuan 👋</text>
-<text x="58" y="239" fill="#748577" font-size="25">你好，欢迎来到我的个人空间。</text>
-<text x="58" y="303" fill="#66706b" font-size="24">折腾 Embedded System 好多年，</text>
-<text x="58" y="348" fill="#66706b" font-size="24">现在专注 Inference Runtime 和 GPU Kernel 性能优化，</text>
-<text x="58" y="387" fill="#66706b" font-size="24">在 AI Infra 领域持续探索。</text>
-<path d="M58 427H1142" stroke="#dedfd8"/>
-<rect x="58" y="456" width="207" height="62" rx="5" fill="#25332f"/>
-<text x="84" y="495" fill="#ffffff" font-size="20">访问个人主页</text>
-<path d="M224 494l14-14m-14 0h14v14" fill="none" stroke="#ffffff" stroke-width="2"/>
-<text x="292" y="494" fill="#66706b" font-size="19">yuancodelab.com</text>
-<text x="1142" y="494" text-anchor="end" fill="#748577" font-size="18">Never stop exploring.</text>
+<text x="58" y="181" fill="#25332f" font-size="48" font-weight="600">Zhang Yuan 👋</text>
+<text x="58" y="228" fill="#25332f" font-size="25">AI Infrastructure Engineer</text>
+<text x="58" y="263" fill="#25332f" font-size="25">Creator of Yuan Code Lab</text>
+<text x="58" y="305" fill="#748577" font-size="24">你好，欢迎来到我的个人空间。</text>
+<text x="58" y="361" fill="#66706b" font-size="24">折腾 Embedded System 好多年，</text>
+<text x="58" y="401" fill="#66706b" font-size="24">现在专注 Inference Runtime 和 GPU Kernel 性能优化，</text>
+<text x="58" y="441" fill="#66706b" font-size="24">在 AI Infra 领域持续探索。</text>
+<path d="M58 481H1142" stroke="#dedfd8"/>
+<rect x="58" y="510" width="207" height="62" rx="5" fill="#25332f"/>
+<text x="161.5" y="549" text-anchor="middle" text-decoration="underline" fill="#ffffff" font-size="20">访问个人主页</text>
+<text x="292" y="549" fill="#66706b" font-size="19">yuancodelab.com</text>
+<text x="1142" y="549" text-anchor="end" fill="#748577" font-size="18">Never stop exploring.</text>
 </g></svg>
